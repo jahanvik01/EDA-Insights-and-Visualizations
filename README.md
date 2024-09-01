@@ -36,6 +36,7 @@ Data Distribution: The dataset exhibited [brief insight into distribution, e.g.,
 Outliers: Identified outliers in variables like [mention specific variables, if any], which were addressed during the cleaning process.
 Correlations: Noted significant correlations between variables such as [mention key correlations, if any], indicating potential relationships worth further exploration.
 Category Trends: Observed trends in categorical variables, such as [mention any notable trends, e.g., "a higher frequency of purchases in the 30-40 age group"].
+
 Conclusion
 This EDA project provided a deep dive into the dataset, revealing valuable insights through systematic analysis and visualization. The findings can be used to inform data-driven decisions and guide further analysis or model building.
 
